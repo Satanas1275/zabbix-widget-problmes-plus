@@ -1,7 +1,7 @@
 <?php declare(strict_types = 0);
 
 
-namespace Modules\RMEProblems\Includes;
+namespace Modules\WidgetProblemsPlus\Includes;
 
 use Zabbix\Widgets\{
 	CWidgetField,
@@ -22,7 +22,7 @@ use Zabbix\Widgets\Fields\{
 };
 
 /**
- * RMEProblems widget form.
+ * WidgetProblemsPlus widget form.
  */
 class WidgetForm extends CWidgetForm {
 

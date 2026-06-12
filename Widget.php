@@ -1,14 +1,14 @@
 <?php declare(strict_types = 0);
 
 
-namespace Modules\RMEProblems;
+namespace Modules\WidgetProblemsPlus;
 
 use Zabbix\Core\CWidget;
 
 class Widget extends CWidget {
 
 	public function getDefaultName(): string {
-		return _('RME Problems');
+		return _('WidgetProblems Plus');
 	}
 
 	public function getTranslationStrings(): array {

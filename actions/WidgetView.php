@@ -1,7 +1,7 @@
 <?php declare(strict_types = 0);
 
 
-namespace Modules\RMEProblems\Actions;
+namespace Modules\WidgetProblemsPlus\Actions;
 
 use CControllerDashboardWidgetView,
 	CControllerResponseData,

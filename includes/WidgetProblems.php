@@ -1,7 +1,7 @@
 <?php declare(strict_types = 0);
 
 
-namespace Modules\RMEProblems\Includes;
+namespace Modules\WidgetProblemsPlus\Includes;
 
 use CButtonIcon,
 	CCol,

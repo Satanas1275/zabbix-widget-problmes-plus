@@ -1,15 +1,15 @@
 {
 	"manifest_version": 2.0,
-	"id": "rmeproblems",
+	"id": "widgetproblemsplus",
 	"type": "widget",
-	"name": "RME Problems",
-	"namespace": "RMEProblems",
+	"name": "WidgetProblems Plus",
+	"namespace": "WidgetProblemsPlus",
 	"version": "1.0",
-	"author": "RME",
+	"author": "Satanas127",
 	"description": "An extension of the Zabbix Problems widget that separates the Problem and Severity into distinct columns.",
-	"url": "https://github.com/gryan337/zabbix-widgets-problems",
+	"url": "",
 	"widget": {
-		"js_class": "CWidgetProblemsRME",
+		"js_class": "CWidgetProblemsPlus",
 		"in": {
 			"hostids": {
 				"type": "_hostids"
@@ -28,7 +28,7 @@
 		]
 	},
 	"actions": {
-		"widget.rmeproblems.view": {
+		"widget.widgetproblemsplus.view": {
 			"class": "WidgetView"
 		}
 	},

@@ -2,13 +2,13 @@
 
 
 /**
- * RMEProblems widget view.
+ * WidgetProblemsPlus widget view.
  *
  * @var CView $this
  * @var array $data
  */
 
-use Modules\RMEProblems\Includes\WidgetProblems;
+use Modules\WidgetProblemsPlus\Includes\WidgetProblems;
 
 if ($data['error'] !== null) {
 	$item = new CTableInfo();

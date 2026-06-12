@@ -1,6 +1,6 @@
 
 
-class CWidgetProblemsRME extends CWidget {
+class CWidgetProblemsPlus extends CWidget {
 
 	/**
 	 * Table body of problems.

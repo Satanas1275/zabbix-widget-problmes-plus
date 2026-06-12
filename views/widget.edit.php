@@ -2,7 +2,7 @@
 
 
 /**
- * RMEProblems widget form view.
+ * WidgetProblemsPlus widget form view.
  *
  * @var CView $this
  * @var array $data
